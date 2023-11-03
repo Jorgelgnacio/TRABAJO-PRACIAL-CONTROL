@@ -9,7 +9,7 @@ Olva Courier es una empresa de transporte y courier que realiza envíos de sobre
 
 Para resolver estos problemas, sugerimos a Olva Courier aplicar algunas de las herramientas para el control de la calidad.
 
-  <img src="[https://www.ejemplo.com/ruta-de-la-imagen/imagen.jpg](https://miro.medium.com/v2/resize:fit:1110/1*0P2XLZfqCsopMR8mKzR-6A.jpeg)" alt="Descripción de la imagen">
+  <img src="https://miro.medium.com/v2/resize:fit:1110/1*0P2XLZfqCsopMR8mKzR-6A.jpeg" alt="Descripción de la imagen">
 
 **DESCRIPCION DE VARIABLES**
 
