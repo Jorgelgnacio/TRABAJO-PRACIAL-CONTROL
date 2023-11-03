@@ -1,4 +1,4 @@
-# TRABAJO PRACIAL CONTROL
+# TRABAJO PARCIAL CONTROL
 
 Olva Courier es una empresa de transporte y courier que realiza envíos de sobres y paquetes a nivel nacional e internacional. La empresa tiene más de 30 años de experiencia y más de 285 oficinas en todo el Perú. Sin embargo, en los últimos años, ha enfrentado algunos problemas que afectan su calidad y competitividad, tales como:
 
