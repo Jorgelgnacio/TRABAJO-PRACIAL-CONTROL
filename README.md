@@ -9,12 +9,11 @@ Olva Courier es una empresa de transporte y courier que realiza envíos de sobre
 
 Para resolver estos problemas, sugerimos a Olva Courier aplicar algunas de las herramientas para el control de la calidad.
 
-VARIABLE
-TIPO
-DESCRIPCIÓN
-id_envio Representa un identificador único para cada envío realizado por Olva Courier.
+**DESCRIPCION DE VARIABLES**
 
-tipo_producto Describe el tipo de producto que se envía a través de Olvacourier. Puede ser "Mercancías", "Documentos" o “Paquetes”.
+* id_envio Representa un identificador único para cada envío realizado por Olva Courier.
+
+  tipo_producto Describe el tipo de producto que se envía a través de Olvacourier. Puede ser "Mercancías", "Documentos" o “Paquetes”.
 
 peso_paquete Variable numérica que representa el peso del paquete enviado en kilogramos.
 
